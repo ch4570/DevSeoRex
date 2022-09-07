@@ -7,6 +7,11 @@
     <h1 align="center">🌱 About ME 🌱</h1>
     <h3>👋 Hi! There!</h3>
     <h3>👨‍💻 <b>I'm Back-End Developer</b> 👨‍💻</h3></br>
+    <h1>📬 How to reach me? 📬</h1>
+    <h3>My Email &nbsp&nbsp👉 &nbsp&nbsp
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckdekrn88@gmail.com"></h3>
+    <h3>Tech Blog &nbsp&nbsp👉 &nbsp&nbsp 
+    <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ch4570"></h3></br>
     <h1 align="center">💻 Tech Stack 💻</h1>
     <p>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -35,4 +40,8 @@
         <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> 
         <img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     </p></br>
+    <img src="https://github-readme-stats.vercel.app/api?username=ch4570&anuraghazra&show_icons=true&theme=tokyonight"></br></br></br>
+    <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ch4570"></br></br>
+    
 </div>
+
