@@ -49,6 +49,5 @@
         <img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     </p></br>
     <img src="https://github-readme-stats.vercel.app/api?username=ch4570&anuraghazra&show_icons=true&theme=tokyonight"></br></br></br>
-    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ch4570)](https://github.com/eungyeole/velog-readme-stats)
 </div>
 
