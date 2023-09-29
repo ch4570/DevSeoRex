@@ -49,6 +49,6 @@
         <img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     </p></br>
     <img src="https://github-readme-stats.vercel.app/api?username=ch4570&anuraghazra&show_icons=true&theme=tokyonight"></br></br></br>
-    <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ch4570"></br></br>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ch4570"></br></br>
 </div>
 
