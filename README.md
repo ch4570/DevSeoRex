@@ -19,20 +19,13 @@
     <h1 align="center">💻 Tech Stack 💻</h1>
     <p>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Data JPA-E34F26?style=for-the-badge&logo=Spring Data JPA&logoColor=white">                                                                                                   
-    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=JPA&logoColor=RED">                                                                                                 
- <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=black"><br/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">   
-    <img src="https://img.shields.io/badge/thymeleaf-6DB33F?style=for-the-badge&logo=thymeleaf&logoColor=white">                                                                                                            
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">                                                                                                             
     <img src="https://img.shields.io/badge/MyBatis-26689A?style=for-the-badge&logo=&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"></br>
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon&logoColor=white"> 
 </p></br>
     <h1> ⚒ Team Collaboration Tool ⚒ </h1>
     <p>
@@ -42,11 +35,8 @@
     </p></br>
     <h1> 🛠 ETC Tools 🛠</h1>
     <p>
-        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
         <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-        <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> 
-        <img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     </p></br>
     <img src="https://github-readme-stats.vercel.app/api?username=ch4570&anuraghazra&show_icons=true&theme=tokyonight"></br></br></br>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ch4570"></br></br>
