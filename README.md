@@ -12,6 +12,10 @@
     <a href="mailto:"ckdekrn88@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">
     </a></h3>
+    <h3>My Resume &nbsp&nbsp👉 &nbsp&nbsp
+    <a href="https://www.rallit.com/resumes/277969@javajungsuk/%EC%84%9C%EB%AF%BC%EC%9E%AC?theme=STANDARD">
+    <img src="https://img.shields.io/badge/ReadMe-018EF5?style=flat-square&logo=ReadMe&logoColor=white">
+    </a></h3>
     <h3>Tech Blog &nbsp&nbsp👉 &nbsp&nbsp
     <a href="https://velog.io/@ch4570">
     <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github">
